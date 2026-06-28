@@ -1,9 +1,8 @@
-Beginner-friendly Python projects covering core programming concepts
 # Python Projects 🐍
 
 A collection of Python projects, built while learning core programming 
 concepts — variables, conditionals, loops, functions, strings, file 
-handling, and more.
+handling, and more. Mini projects now, complex ones soon!
 
 ## 📂 Mini Projects List
 1. Simple Calculator
