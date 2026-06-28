@@ -1,2 +1,28 @@
-# Python_projects
 Beginner-friendly Python projects covering core programming concepts
+# Python Projects 🐍
+
+A collection of Python projects, built while learning core programming 
+concepts — variables, conditionals, loops, functions, strings, file 
+handling, and more.
+
+## 📂 Mini Projects List
+1. Simple Calculator
+2. Temperature Converter
+3. BMI Calculator
+4. Even/Odd Checker
+5. Leap Year Checker
+6. Grade Calculator
+7. Number Guessing Game
+8. Multiplication Table Generator
+9. Palindrome Checker
+10. Word Counter
+11. Password Generator
+12. Caesar Cipher
+13. To-Do List
+14. Contact Book
+15. Quiz App
+16. Unit Converter
+17. Dice Roller
+18. Expense Tracker
+19. Notes App
+20. Rock Paper Scissors
