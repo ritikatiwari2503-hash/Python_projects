@@ -8,7 +8,7 @@ handling, and more. Mini projects now, complex ones soon!
 1. Simple Calculator
 2. Temperature Converter
 3. BMI Calculator
-4. Even/Odd Checker
+4. Typing speed tester
 5. Leap Year Checker
 6. Grade Calculator
 7. Number Guessing Game
