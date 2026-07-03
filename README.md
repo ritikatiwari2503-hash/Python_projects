@@ -13,7 +13,7 @@ handling, and more. Mini projects now, complex ones soon!
 6. Grade Calculator
 7. Number Guessing Game
 8. Multiplication Table Generator
-9. Palindrome Checker
+9. Word Counter with stats 
 10. Word Counter
 11. Password Generator
 12. Caesar Cipher
