@@ -18,3 +18,8 @@ wpm = words / (time_taken / 60)       #calculates words per minute
 
 print("time taken: {:.2f} seconds".format(time_taken)) #time taken in seconds
 print("words per minute: {:.2f}".format(wpm))          #words per minute
+
+if user_input == text:
+    print("Congratulations! You typed the text 100% correctly.")
+else:
+    print("Mistakes found!")          # to check if the text is accurately written or not
