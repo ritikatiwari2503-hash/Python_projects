@@ -13,8 +13,8 @@ handling, and more. Mini projects now, complex ones soon!
 6. Grade Calculator
 7. Number Guessing Game
 8. Multiplication Table Generator
-9. Word Counter with stats 
-10. Word Counter
+9. Word Counter
+10. Anagram checker
 11. Password Generator
 12. Caesar Cipher
 13. To-Do List
@@ -25,3 +25,13 @@ handling, and more. Mini projects now, complex ones soon!
 18. Expense Tracker
 19. Notes App
 20. Rock Paper Scissors
+21. Pattern printing programs
+22. Currency converter
+23. Rocket fuel burner estimator
+24. Tic tac toe
+25. Loan EMI calculator
+26. Hangman game
+27. Weather app
+28. Chat application
+29. Quiz application
+30. URL shortener
