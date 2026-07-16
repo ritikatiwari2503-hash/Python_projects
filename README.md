@@ -35,3 +35,23 @@ handling, and more. Mini projects now, complex ones soon!
 28. Chat application
 29. Quiz application
 30. URL shortener
+31. Email sender
+32. Web scraper
+33. Chatbot
+34. Automation bot
+35. Instagram bot
+36. ML prediction(future spending)
+37. AI meeting notes & Action item generator
+38. AI interview simulator
+39. Smart attendence system - Face Recognition
+40. Crypto price alert
+41. AI sql query generator
+42. Smart resume analyser
+43. Fake news detector
+44. Code auto reviewer
+45. Capcha QR code generator
+46. Digital clock
+47. Voting system
+48. snake game
+49. Snake game
+50. User profile card generator
